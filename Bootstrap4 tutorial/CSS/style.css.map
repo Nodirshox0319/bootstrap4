@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,4BAA4B;CACjD;;ADAD,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,KAAK;EAClB,UAAU,EAAE,KAAK;CACpB;;AACD,AAAA,KAAK,CAAA;EACD,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;CAMjC;;AARD,AAII,KAJC,CAID,EAAE,CAAA;EACE,KAAK,EAAE,OAAc;CACxB",
+    "sources": [
+        "style.scss",
+        "_fon.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
